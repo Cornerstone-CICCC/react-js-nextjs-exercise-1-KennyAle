@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <section className="w-full min-h-100 grid place-content-center">
